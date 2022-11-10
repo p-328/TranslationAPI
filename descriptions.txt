@@ -1,0 +1,5 @@
+Takes a JSON object with a field named 'text' with it, and takes the from_lang variable and translates it to the other language described by the to_lang variable using the 'text' field.
+----------------------------------------------------------------
+Gives documentation for this API.
+----------------------------------------------------------------
+Takes a JSON object with a field named 'text' with it, and translates the 'text' field to the to_lang language.

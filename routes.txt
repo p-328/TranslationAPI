@@ -1,0 +1,3 @@
+/translate/<from_lang>/<to_lang> - POST
+/ - get
+/translate/<to_lang> - POST
