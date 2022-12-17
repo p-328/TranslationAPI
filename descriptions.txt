@@ -3,3 +3,7 @@ Takes a JSON object with a field named 'text' with it, and takes the from_lang v
 Gives documentation for this API.
 ----------------------------------------------------------------
 Takes a JSON object with a field named 'text' with it, and translates the 'text' field to the to_lang language.
+----------------------------------------------------------------
+Returns all possible language aliases for this translator
+----------------------------------------------------------------
+Takes a JSON object with a field named 'text' with it, and translates the 'text' field to the English language.
