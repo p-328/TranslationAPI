@@ -20,8 +20,6 @@ def loadLangs():
     return m
 
 lang_maps = loadLangs()
-# References
-# print(ts.google(query_text="Hello", from_language=lang_maps['en'], to_language=lang_maps['mn']))
 
 app = Flask(__name__)
 # allows for CORS if front-end uses this API (needed)
